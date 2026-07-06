@@ -1,0 +1,7 @@
+{
+  "name": "team-tools",
+  "owner": { "name": "Platform team" },
+  "plugins": [
+    { "name": "team-kit", "source": "./team-kit", "description": "hello and goodbye test marketplace" }
+  ]
+}
